@@ -164,7 +164,6 @@ function initModernUI() {
                         <a href="index.html" title="Home">🏠</a>
                         <a href="about.html" title="About Me">👤</a>
                         <a href="projects.html" title="Projects">📁</a>
-                        <a href="planner.html" title="Academic Planner">📅</a>
                     </div>
                 </div>
 
